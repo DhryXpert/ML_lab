@@ -1,4 +1,3 @@
-Here’s a clean, polished version of your README. I’ve kept it beginner-friendly, clear, and ready to use on GitHub without changing the intent or structure.
 
 ---
 
